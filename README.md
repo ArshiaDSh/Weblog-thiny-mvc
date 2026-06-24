@@ -13,7 +13,6 @@ A mini weblog with an admin panel, built with **PHP** following the **Model-View
 - **Admin Panel** - Manage posts, users, and site content
 - **Database Integration** - MySQL database for persistent data storage
 - **Responsive Design** - Works on desktop and mobile devices
-- **Email Support** - PHPMailer integration for notifications
 
 ---
 
@@ -31,7 +30,6 @@ A mini weblog with an admin panel, built with **PHP** following the **Model-View
 ### Tools & Practices
 - **Git** - Version control
 - **.htaccess** - URL routing and security
-- **PHPMailer** - Email sending functionality
 
 ---
 
